@@ -7,6 +7,8 @@ import {
   Button,
 } from "@mui/material";
 
+import "./AddTaskForm.css"
+
 export const AddTaskDialogBox = ({ open, handleClose }) => {
   const [habitListDetails, setHabitListDetails] = useState({
     name: "",
