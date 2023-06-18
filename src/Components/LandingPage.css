@@ -1,0 +1,8 @@
+*{
+    text-align: center;
+}
+
+.AddNewTask-btn{
+    background-color: blueviolet !important;
+    color: white !important;
+}
